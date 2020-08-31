@@ -23,7 +23,7 @@
 
 É importante mencionar que esta é uma das aplicações do **GoRestaurant System**
 
-Para explorar os outros, clique nos links acima:
+Para explorar outro, clique no link abaixo:
 - [GoRestaurant Mobile](https://github.com/alessandro-silva/gorestaurant-mobile)
 
 # :wrench: Instalação
