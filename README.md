@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GoRestaurant" title="GoRestaurant" src="https://user-images.githubusercontent.com/54153011/91764128-c2961100-eba4-11ea-8c97-3d0ba8788df4.png" width="300px" />
+  <img alt="GoRestaurant" title="GoRestaurant" src="https://user-images.githubusercontent.com/54153011/91764365-2d474c80-eba5-11ea-94dc-59f557cab3b0.png" width="300px" />
 </h1>
 
 <h3 align="center">
