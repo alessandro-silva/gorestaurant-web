@@ -24,7 +24,7 @@
 É importante mencionar que esta é uma das aplicações do **GoRestaurant System**
 
 Para explorar os outros, clique nos links acima:
-- [GoRestaurant Mobile](https://github.com/alessandro-silva/react-native-delivery)
+- [GoRestaurant Mobile](https://github.com/alessandro-silva/gorestaurant-mobile)
 
 # :wrench: Instalação
 
