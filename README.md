@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FastFeet" title="FastFeet" src=".github/logo.svg" width="300px" />
+  <img alt="FastFeet" title="GoRestaurant" src="https://raw.githubusercontent.com/alessandro-silva/react-native-delivery/master/src/assets/logo.png" width="300px" />
 </h1>
 
 <h3 align="center">
